@@ -93,5 +93,5 @@ def vectorSpaceModel(query, doc_dict,tf_idf_scr):
 #    tf_dict = tF_Doc(vocab, docs)     #returns term frequency
 #    df_dict = wordDocFrecuency(vocab, docs)             #returns document frequencies
 #    idf_dict = inverseDocFrecuency(vocab,df_dict,M)     #returns idf scores
-#    _tf_idf = tf_idf(vocab,tf_dict,idf_dict,docs)   #returns tf-idf socres
+#   _tf_idf = tf_idf(vocab,tf_dict,idf_dict,docs)   #returns tf-idf socres
    
