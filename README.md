@@ -1,6 +1,6 @@
 # Information-Retrieval-Systems
 Final Project
 
-En esta primera entrega, solo se tienen implementados el modelo booleano y la colección newsgroup. Antes de ejecutar el código, se debe escribir en la variable DIR, la dirección del archivo donde está la colección Newsgroup, en particular el archivo que tiene otros archivos, los cuales separan los documentos por temascomunes.
+The boolean model and the newsgroup collection have been implemented. Before running the code, the address of the file where the Newsgroup collection is located must be written to the DIR variable, in particular the file that has other files, which separate the documents by common topics.
 
-Se encuentra un pdf con la explicación general de lo que hemos ido programando.
+A pdf with a general explanation of what we have been programming can be found here.
